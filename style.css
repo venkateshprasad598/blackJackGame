@@ -23,7 +23,7 @@ justify-content: space-around;
 .flex-blackjack-row-1 div{
    border: 1px solid white; 
    padding: 10px;
-   height: 450px;
+   height: 335px;
    text-align: center;
    flex: 1;
 }
